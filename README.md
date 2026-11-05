@@ -21,4 +21,5 @@ This is a simple calculator application developed using HTML, JavaScript and Nod
 - JavaScript
 - Node.js
 - Git and GitHub
-Project Description: This calculator provides basic mathematical operations.
+Project Description: This calculator provides basic and advanced mathematical operations.
+
